@@ -5,7 +5,7 @@ cachetools==5.5.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
-colorama==0.4.6; and platform_system == "Windows"
+colorama==0.4.6
 geojson==3.1.0
 gitdb==4.0.11
 gitpython==3.1.43
@@ -41,4 +41,4 @@ tornado==6.4.1
 typing-extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
-watchdog==4.0.2; and platform_system != "Darwin"
+watchdog==4.0.2
